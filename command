@@ -9,6 +9,8 @@ npm i nodemon --save-dev
 npm i dotenv
 npm i mongodb mongoose
 npm i jsonwebtoken bcrypt uuid
+npm i nodemailer
+npm i express-validator
 
 npm run dev // запустить сервер
 ==================================================================
